@@ -1,6 +1,6 @@
 # Varun Niraj Agarwal
 
-Casual academic in Computer Science and Engineering at UNSW Sydney, and co-founder and CTO of an early-stage startup. I start a PhD in computing education at UNSW in February 2027.
+Casual academic in Computer Science and Engineering at UNSW Sydney, and co-founder and CTO of a startup. I start a PhD in computing education at UNSW in February 2027.
 
 I build tools for teaching proof and study how postgraduate computing students learn. Interests: computing education, proof assistants and formal methods.
 
