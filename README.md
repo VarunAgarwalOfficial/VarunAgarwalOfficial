@@ -20,7 +20,7 @@ I study how computing students learn, and I build software that shows how things
     <td width="50%" valign="top">
       <a href="https://github.com/VarunAgarwalOfficial/net-visual"><img src="images/net-visual.png" alt="Pixel art: computers on a meadow passing envelopes" width="100%"></a><br>
       <a href="https://github.com/VarunAgarwalOfficial/net-visual"><b>net-visual</b></a><br>
-      Network simulations for teaching.<br>
+      Six network simulations.<br>
       <a href="https://varunagarwalofficial.github.io/net-visual/">Live&nbsp;demo</a>
     </td>
     <td width="50%" valign="top">
@@ -48,7 +48,7 @@ I study how computing students learn, and I build software that shows how things
     <td width="50%" valign="top">
       <a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><img src="images/quantum-key-exchange.png" alt="Pixel art: two keys with photons passing between them" width="100%"></a><br>
       <a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><b>quantum-key-exchange</b></a><br>
-      BB84 key exchange in Rust.<br>
+      BB84 in Rust.<br>
       <a href="https://varunagarwalofficial.github.io/quantum-key-exchange/">Live&nbsp;demo</a>
     </td>
     <td width="50%" valign="top">
