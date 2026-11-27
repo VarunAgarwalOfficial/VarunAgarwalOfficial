@@ -1,7 +1,7 @@
 <p>
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="images/meadow.png">
-  <img src="images/meadow.gif" alt="Pixel art: Varun Agarwal on a sign above a meadow lined with tiny pictures of his projects, with a smiling sun and a bee" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="images/meadow-still.png">
+  <img src="images/meadow-anim.gif" alt="Pixel art: Varun Agarwal on a sign above a meadow lined with tiny pictures of his projects, with a smiling sun and a bee" width="100%">
 </picture>
 </p>
 
