@@ -52,17 +52,17 @@ I study how computing students learn, and I build software that shows how things
       <a href="https://varunagarwalofficial.github.io/quantum-key-exchange/">Live&nbsp;demo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/VarunAgarwalOfficial/huffman"><img src="images/huffman.png" alt="Pixel art: a Huffman code tree" width="100%"></a><br>
-      <a href="https://github.com/VarunAgarwalOfficial/huffman"><b>huffman</b></a><br>
-      Rust compressor that shows its tree.<br>
-      <a href="https://varunagarwalofficial.github.io/huffman/">Live&nbsp;demo</a>
+      <a href="https://github.com/VarunAgarwalOfficial/packet-lens"><img src="images/packet-lens.png" alt="Pixel art: packets pass under a magnifying glass and leave sorted into three flows" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/packet-lens"><b>packet-lens</b></a><br>
+      Reads packet captures, in Rust.<br>
+      <a href="https://varunagarwalofficial.github.io/packet-lens/">Live&nbsp;demo</a>
     </td>
   </tr>
 </table>
 
 ### More tools
 
-- [packet-lens](https://github.com/VarunAgarwalOfficial/packet-lens): reads a packet capture and reports flows, TLS names and DNS. [Live&nbsp;demo](https://varunagarwalofficial.github.io/packet-lens/)
+- [huffman](https://github.com/VarunAgarwalOfficial/huffman): Rust file compressor with a page that shows its code tree. [Live&nbsp;demo](https://varunagarwalofficial.github.io/huffman/)
 - [fog-scheduling](https://github.com/VarunAgarwalOfficial/fog-scheduling): six scheduling policies compared over many seeds. [Live&nbsp;demo](https://varunagarwalofficial.github.io/fog-scheduling/)
 - [hairline](https://github.com/VarunAgarwalOfficial/hairline): line drawings that move with the pointer. [Live&nbsp;demo](https://varunagarwalofficial.github.io/hairline/)
 - [xdp-guard](https://github.com/VarunAgarwalOfficial/xdp-guard): per-source rate limiter for Linux, as an XDP program in Rust.
