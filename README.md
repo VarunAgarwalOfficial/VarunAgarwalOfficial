@@ -1,4 +1,4 @@
-<p align="center"><img src="images/banner.png" alt="Pixel art: a sunflower field under a pale sun, with a small figure on a picnic blanket" width="100%"></p>
+<p align="center"><img src="images/banner.png" alt="Pixel art: Varun Agarwal on a sign above a meadow lined with tiny pictures of his projects" width="100%"></p>
 
 # Varun Agarwal
 
