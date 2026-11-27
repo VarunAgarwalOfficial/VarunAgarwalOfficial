@@ -31,6 +31,8 @@ How students learn to write proofs, and whether checking a proof step by step he
   </tr>
 </table>
 
+More tools: [packet-lens](https://github.com/VarunAgarwalOfficial/packet-lens) (capture reader, CLI and browser) · [xdp-guard](https://github.com/VarunAgarwalOfficial/xdp-guard) (per-source rate limiter in XDP) · [dotman](https://github.com/VarunAgarwalOfficial/dotman) (one theme file for a whole desktop) · [dictate](https://github.com/VarunAgarwalOfficial/dictate) (hold-to-talk dictation)
+
 ## Publications
 
 - *Formal proofs to teach informal proof writing.* AAEE 2026, accepted.
