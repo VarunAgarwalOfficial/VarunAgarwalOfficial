@@ -1,6 +1,7 @@
-<p align="center"><img src="images/banner.png" alt="Pixel art: Varun Agarwal on a sign above a meadow lined with tiny pictures of his projects" width="100%"></p>
-
-# Varun Agarwal
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="images/meadow.png">
+  <img src="images/meadow.gif" alt="Pixel art: Varun Agarwal on a sign above a meadow lined with tiny pictures of his projects, with a smiling sun and a bee" width="100%">
+</picture>
 
 I study how computing students learn, and I build software that shows how things work.
 
@@ -8,32 +9,68 @@ I study how computing students learn, and I build software that shows how things
 - Co-founder and CTO of PropRetire.
 - Casual academic at UNSW and the University of Sydney, and cyber security officer at DPIRD.
 
-ORCID: [0000-0002-0785-5357](https://orcid.org/0000-0002-0785-5357)
-
-## Research
-
-How students learn to write proofs, and whether checking a proof step by step helps them write one on paper. I also look at where theory and practice meet in early postgraduate computing.
+[ORCID](https://orcid.org/0000-0002-0785-5357) · [LinkedIn](https://www.linkedin.com/in/varunswaika/)
 
 ## Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/net-visual"><img src="images/net-visual.png" alt="Networking visualisers" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/net-visual"><b>net-visual</b></a> · <a href="https://varunagarwalofficial.github.io/net-visual/">live demo</a><br>Network simulations for teaching, in Rust and React</td>
-    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/visual-algorithms"><img src="images/visual-algorithms.png" alt="Visual algorithms" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/visual-algorithms"><b>visual-algorithms</b></a> · <a href="https://varunagarwalofficial.github.io/visual-algorithms/">live demo</a><br>44 interactive algorithm demos</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VarunAgarwalOfficial/net-visual"><img src="images/net-visual.png" alt="Pixel art: computers on a meadow passing envelopes" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/net-visual"><b>net-visual</b></a><br>
+      Six network simulations for teaching. Rust and React.<br>
+      <a href="https://varunagarwalofficial.github.io/net-visual/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VarunAgarwalOfficial/visual-algorithms"><img src="images/visual-algorithms.png" alt="Pixel art: bars mid-sort" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/visual-algorithms"><b>visual-algorithms</b></a><br>
+      44 interactive algorithm demos. TypeScript.<br>
+      <a href="https://varunagarwalofficial.github.io/visual-algorithms/">Live demo</a>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/chess-engine"><img src="images/chess-engine.png" alt="Chess engine" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/chess-engine"><b>chess-engine</b></a> · <a href="https://varunagarwalofficial.github.io/chess-engine/">live demo</a><br>A Rust chess engine with a browser board</td>
-    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/traffic-signals"><img src="images/traffic-signals.png" alt="Traffic signals" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/traffic-signals"><b>traffic-signals</b></a> · <a href="https://varunagarwalofficial.github.io/traffic-signals/">live demo</a><br>Signal controllers compared on the same traffic</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VarunAgarwalOfficial/chess-engine"><img src="images/chess-engine.png" alt="Pixel art: a chess board and a search tree" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/chess-engine"><b>chess-engine</b></a><br>
+      Alpha-beta chess engine in Rust, with a browser board.<br>
+      <a href="https://varunagarwalofficial.github.io/chess-engine/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VarunAgarwalOfficial/traffic-signals"><img src="images/traffic-signals.png" alt="Pixel art: cars queue at traffic lights" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/traffic-signals"><b>traffic-signals</b></a><br>
+      Signal controllers compared on the same traffic. Rust.<br>
+      <a href="https://varunagarwalofficial.github.io/traffic-signals/">Live demo</a>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><img src="images/quantum-key-exchange.png" alt="Quantum key exchange" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><b>quantum-key-exchange</b></a> · <a href="https://varunagarwalofficial.github.io/quantum-key-exchange/">live demo</a><br>BB84 key exchange, simulated in Rust</td>
-    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/huffman"><img src="images/huffman.png" alt="Huffman" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/huffman"><b>huffman</b></a> · <a href="https://varunagarwalofficial.github.io/huffman/">live demo</a><br>A Rust Huffman compressor that shows its tree</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><img src="images/quantum-key-exchange.png" alt="Pixel art: two keys with photons passing between them" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><b>quantum-key-exchange</b></a><br>
+      BB84 key exchange, simulated in Rust.<br>
+      <a href="https://varunagarwalofficial.github.io/quantum-key-exchange/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/VarunAgarwalOfficial/huffman"><img src="images/huffman.png" alt="Pixel art: a Huffman code tree" width="100%"></a><br>
+      <a href="https://github.com/VarunAgarwalOfficial/huffman"><b>huffman</b></a><br>
+      File compressor in Rust that shows its code tree.<br>
+      <a href="https://varunagarwalofficial.github.io/huffman/">Live demo</a>
+    </td>
   </tr>
 </table>
 
-More tools: [packet-lens](https://github.com/VarunAgarwalOfficial/packet-lens) (capture reader, CLI and browser; [demo](https://varunagarwalofficial.github.io/packet-lens/)) · [xdp-guard](https://github.com/VarunAgarwalOfficial/xdp-guard) (per-source rate limiter in XDP) · [dotman](https://github.com/VarunAgarwalOfficial/dotman) (one theme file for a whole desktop) · [dictate](https://github.com/VarunAgarwalOfficial/dictate) (hold-to-talk dictation) · [fog-scheduling](https://github.com/VarunAgarwalOfficial/fog-scheduling) (six scheduling policies compared; [demo](https://varunagarwalofficial.github.io/fog-scheduling/)) · [hairline](https://github.com/VarunAgarwalOfficial/hairline) (line drawings that move with the pointer; [demo](https://varunagarwalofficial.github.io/hairline/)) · [stardew-mods](https://github.com/VarunAgarwalOfficial/stardew-mods) (co-op Stardew Valley mods)
+### More tools
 
-## Publications
+- [packet-lens](https://github.com/VarunAgarwalOfficial/packet-lens): reads a packet capture and reports flows, TLS names and DNS. [Live demo](https://varunagarwalofficial.github.io/packet-lens/)
+- [fog-scheduling](https://github.com/VarunAgarwalOfficial/fog-scheduling): six scheduling policies compared over many seeds. [Live demo](https://varunagarwalofficial.github.io/fog-scheduling/)
+- [hairline](https://github.com/VarunAgarwalOfficial/hairline): line drawings that move with the pointer. [Live demo](https://varunagarwalofficial.github.io/hairline/)
+- [xdp-guard](https://github.com/VarunAgarwalOfficial/xdp-guard): per-source rate limiter for Linux, as an XDP program in Rust.
+- [dotman](https://github.com/VarunAgarwalOfficial/dotman): one theme file for a whole desktop.
+- [dictate](https://github.com/VarunAgarwalOfficial/dictate): hold-to-talk dictation that runs on your own computer.
+- [stardew-mods](https://github.com/VarunAgarwalOfficial/stardew-mods): two mods for co-op Stardew Valley.
+
+## Research
+
+How students learn to write proofs, and whether checking a proof step by step helps them write one on paper. I also look at where theory and practice meet in early postgraduate computing.
 
 - *Formal proofs to teach informal proof writing.* AAEE 2026, accepted.
 - *An Unclear Theory-Practice Connection in Early Postgraduate Computing.* ACM COMPUTE 2026, accepted.
