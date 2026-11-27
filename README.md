@@ -1,4 +1,6 @@
-# Varun Niraj Agarwal
+<p align="center"><img src="images/banner.png" alt="Pixel art: a sunflower field under a pale sun, with a small figure on a picnic blanket" width="100%"></p>
+
+# Varun Agarwal
 
 I study how computing students learn, and I build software that shows how things work.
 
@@ -10,16 +12,24 @@ ORCID: [0000-0002-0785-5357](https://orcid.org/0000-0002-0785-5357)
 
 ## Research
 
-How students learn to write proofs, and whether checking a proof step by step helps them write one on paper. [Proof-Assistant](https://github.com/VarunAgarwalOfficial/Proof-Assistant) is the tool behind that work. I also look at where theory and practice meet in early postgraduate computing.
+How students learn to write proofs, and whether checking a proof step by step helps them write one on paper. I also look at where theory and practice meet in early postgraduate computing.
 
 ## Projects
 
-- [chess-engine](https://github.com/VarunAgarwalOfficial/chess-engine): a Rust chess engine with a browser board. About 2800 on Stockfish's strength-limited scale.
-- [net-visual](https://github.com/VarunAgarwalOfficial/net-visual): six interactive network simulations for teaching, checked by 86 tests against textbook formulas.
-- [traffic-signals](https://github.com/VarunAgarwalOfficial/traffic-signals): five signal controllers on the same simulated roads. In light traffic, mean delay falls from 36 s with fixed-time signals to 13 s with capacity-aware control.
-- [quantum-key-exchange](https://github.com/VarunAgarwalOfficial/quantum-key-exchange): BB84 key exchange in Rust. An eavesdropper on every photon shows up as 25.8% errors, against 25% in theory.
-- [huffman](https://github.com/VarunAgarwalOfficial/huffman): a streaming Huffman compressor. It encodes 1 GiB in 3.9 s using 4.7 MiB of memory.
-- [visual-algorithms](https://github.com/VarunAgarwalOfficial/visual-algorithms): 44 interactive algorithm demos, [live in the browser](https://varunagarwalofficial.github.io/visual-algorithms/).
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/net-visual"><img src="images/net-visual.png" alt="Networking visualisers" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/net-visual"><b>net-visual</b></a><br>Network simulations for teaching, in Rust and React</td>
+    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/visual-algorithms"><img src="images/visual-algorithms.png" alt="Visual algorithms" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/visual-algorithms"><b>visual-algorithms</b></a> · <a href="https://varunagarwalofficial.github.io/visual-algorithms/">live demo</a><br>44 interactive algorithm demos</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/chess-engine"><img src="images/chess-engine.png" alt="Chess engine" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/chess-engine"><b>chess-engine</b></a><br>A Rust chess engine with a browser board</td>
+    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/traffic-signals"><img src="images/traffic-signals.png" alt="Traffic signals" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/traffic-signals"><b>traffic-signals</b></a><br>Signal controllers compared on the same traffic</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><img src="images/quantum-key-exchange.png" alt="Quantum key exchange" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/quantum-key-exchange"><b>quantum-key-exchange</b></a><br>BB84 key exchange, simulated in Rust</td>
+    <td width="50%" valign="top"><a href="https://github.com/VarunAgarwalOfficial/huffman"><img src="images/huffman.png" alt="Huffman" width="100%"></a><br><a href="https://github.com/VarunAgarwalOfficial/huffman"><b>huffman</b></a><br>A Rust Huffman compressor that shows its tree</td>
+  </tr>
+</table>
 
 ## Publications
 
